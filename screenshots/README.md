@@ -1,9 +1,8 @@
 |**Webextensions**|
 |:-|
 |For use in [Firefox](https://www.mozilla.org/firefox/all) <sup>Desktop</sup>|
-
-|[New Tab Page](https://raw.githubusercontent.com/VitaliyVstyle/VitaliyVstyle.github.io/main/WebExtExperiments/new_tab_page.2025.6.15.xpi) (signed) <sup>Firefox 117+</sup>
-New tab with bookmarks from the NewTabPage folder|
+|[New Tab Page](https://raw.githubusercontent.com/VitaliyVstyle/VitaliyVstyle.github.io/main/WebExtExperiments/new_tab_page.2025.6.15.xpi) (signed) <sup>Firefox 117+</sup>|
+|New tab with bookmarks from the NewTabPage folder|
 
 ## Webextensions Experiments
 Experimental WebExtensions APIs  

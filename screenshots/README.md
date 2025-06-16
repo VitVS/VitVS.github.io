@@ -1,4 +1,5 @@
-## |**Webextensions**|
+|**Webextensions**
+=|
 |:-|
 |For use in [Firefox](https://www.mozilla.org/firefox/all) <sup>Desktop</sup>|
 
